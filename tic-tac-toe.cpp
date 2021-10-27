@@ -1,3 +1,4 @@
+test
 #include <iostream>
 //получение элемента по координатам
 char element(std::string field, int x, int y)
