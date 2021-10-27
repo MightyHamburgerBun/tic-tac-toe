@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/makuk/Desktop/ProjectsCpp/Skillbox/HomeWork/11 Functions in programming/5 tic-tac-toe
+# Install script for directory: C:/Users/darmstadtium/CLionProjects/tic-tac-toe.cpp
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/makuk/Desktop/ProjectsCpp/Skillbox/HomeWork/11 Functions in programming/5 tic-tac-toe/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/darmstadtium/CLionProjects/tic-tac-toe.cpp/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
