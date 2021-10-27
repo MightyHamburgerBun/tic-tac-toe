@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/makuk/Desktop/ProjectsCpp/Skillbox/HomeWork/11 Functions in programming/5 tic-tac-toe/tic-tac-toe.cpp
+iostream
+-
+

@@ -1,0 +1,3 @@
+C:/Users/makuk/Desktop/ProjectsCpp/Skillbox/HomeWork/11 Functions in programming/5 tic-tac-toe/cmake-build-debug/CMakeFiles/5_tic_tac_toe.dir
+C:/Users/makuk/Desktop/ProjectsCpp/Skillbox/HomeWork/11 Functions in programming/5 tic-tac-toe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/makuk/Desktop/ProjectsCpp/Skillbox/HomeWork/11 Functions in programming/5 tic-tac-toe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
